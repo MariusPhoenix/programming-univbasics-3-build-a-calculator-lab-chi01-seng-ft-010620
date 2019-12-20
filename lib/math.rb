@@ -34,7 +34,7 @@ end
 
 def square_root(num)
   num = 9
-  puts = num ** 2
+  puts = num()
   
 
 end

@@ -33,7 +33,7 @@ puts = num1 % num2
 end
 
 def square_root(num)
-  num = 9
+  num = 81
   puts = Math.sqrt(num)
   
 

@@ -34,7 +34,7 @@ end
 
 def square_root(num)
   num = 9
-  puts = sqrt(num)
+  puts = Math.sqrt(num)
   
 
 end
